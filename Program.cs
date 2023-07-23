@@ -11,3 +11,4 @@ int chet = number1%2;
 Console.WriteLine("Да");
     else
 Console.WriteLine("Нет");
+
