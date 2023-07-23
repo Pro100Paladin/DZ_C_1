@@ -12,3 +12,5 @@ Console.WriteLine("Да");
     else
 Console.WriteLine("Нет");
 
+
+
